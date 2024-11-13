@@ -23,6 +23,4 @@ const duplicateCharacterCount = (str)=>{
 
 }
 
-console.log(duplicateCharacterCount('Sets'))
-
 module.exports={duplicateCharacterCount}
