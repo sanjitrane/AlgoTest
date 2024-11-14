@@ -1,4 +1,4 @@
-const { firstNonRepeatedChar } = require('./first-non-repeated-char');
+const { firstNonRepeatedChar } = require('./firstNonRepeatedChar');
 
 describe('First Non Reeated Char Function checks', ()=>{
   it('firstNonRepeatedChar is a function', ()=>{

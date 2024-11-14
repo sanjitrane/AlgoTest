@@ -297,12 +297,3 @@ class LinkedList{
 }
 
 module.exports={Node, LinkedList}
-
-const l = new LinkedList();
-l.insertFirst(1);
-l.insertLast(4);
-l.insertLast(8);
-l.insertLast(10);
-l.insertLast(15);
-l.removeAlternateNodes();
-console.log(l.print());

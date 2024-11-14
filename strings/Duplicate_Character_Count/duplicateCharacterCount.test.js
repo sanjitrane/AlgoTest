@@ -1,4 +1,4 @@
-const {duplicateCharacterCount} = require('./duplicate-character-count');
+const {duplicateCharacterCount} = require('./duplicateCharacterCount');
 
 describe('Duplicate character count function checks', ()=>{
   it('duplicateCharacterCount is a function', ()=>{
